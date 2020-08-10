@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stelar", "Stelar\Stelar.csproj", "{E8857567-2234-4014-A744-55F2FD585D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8857567-2234-4014-A744-55F2FD585D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8857567-2234-4014-A744-55F2FD585D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8857567-2234-4014-A744-55F2FD585D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8857567-2234-4014-A744-55F2FD585D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E48FE36-630E-4841-BC43-7CE30AEE76CA}
+	EndGlobalSection
+EndGlobal
