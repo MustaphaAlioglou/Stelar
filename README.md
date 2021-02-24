@@ -1,5 +1,5 @@
-#stelar
-c# simple projects put together to one main application.
+
+simple c#  projects put together to one main application.
 ___
 **Visual Studio 2019 is recommended**
 
