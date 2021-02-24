@@ -1,5 +1,5 @@
 #stelar
-Examples from the projects at my university.
+c# simple projects put together to one main application.
 ___
 **Visual Studio 2019 is recommended**
 
